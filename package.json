@@ -1,0 +1,24 @@
+{
+  "name": "tea-demonstration2",
+  "version": "1.0.0",
+  "description": "Basic demonstration app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Chehkhii/tea-demonstration2.git"
+  },
+  "dependencies": {
+    "tea-demonstration2": "1.0.0",
+    "tea-lexa": "1.0.0",
+    "cheh-demonstration2": "1.0.2"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chehkhii/tea-demonstration2/issues"
+  },
+  "homepage": "https://github.com/Chehkhii/tea-demonstration2#readme"
+}
